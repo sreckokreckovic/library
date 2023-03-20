@@ -42,7 +42,7 @@
                         
                         
                     
-                            <input class="form-control btn btn-primary" type="submit" value="Login">
+                            <input class="form-control btn btn-primary" type="submit" value="Sign up">
                             <p> Imate profil? <a class="text-success"href="login.php">Ulogujte  se</a></p>
                           
                         </form>
